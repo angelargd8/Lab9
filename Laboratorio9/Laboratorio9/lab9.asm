@@ -6,7 +6,7 @@
 ;- Descripcion; Laboratorio 9
 ;- Autores:   - Angela Garcia,22869
 ;	    	  - Gerardo Pineda, 22880
-;- fecha: 15/05/2023
+;- fecha: 24/05/2023
 ; --------------------------------
 
 ;--heater--
